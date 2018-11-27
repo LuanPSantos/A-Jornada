@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 1e265124236bab9419ad000543f8d003
+timeCreated: 1461221026
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Personagem_0
+    21300002: Personagem_1
+    21300004: Personagem_2
+    21300006: Personagem_3
+    21300008: Personagem_4
+    21300010: Personagem_5
+    21300012: Personagem_6
+    21300014: Personagem_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Personagem_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 143}
+        - {x: 21, y: 152}
+        - {x: -29, y: 152}
+        - {x: -52, y: 141}
+        - {x: -62, y: 79}
+        - {x: -62, y: -112}
+        - {x: -44, y: -160}
+        - {x: 50, y: -160}
+        - {x: 62, y: -95}
+        - {x: 62, y: 105}
+    - name: Personagem_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 152}
+        - {x: -36, y: 152}
+        - {x: -54, y: 150}
+        - {x: -62, y: 135}
+        - {x: -62, y: -116}
+        - {x: -44, y: -160}
+        - {x: 33, y: -160}
+        - {x: 52, y: -119}
+        - {x: 52, y: 130}
+        - {x: 51, y: 144}
+    - name: Personagem_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: 28}
+        - {x: 90, y: 42}
+        - {x: 53, y: 152}
+        - {x: -38, y: 152}
+        - {x: -42, y: 133}
+        - {x: -72, y: 87}
+        - {x: -72, y: -160}
+        - {x: -29, y: -160}
+        - {x: -9, y: -109}
+        - {x: 60, y: -142}
+        - {x: 92, y: -147}
+    - name: Personagem_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 152}
+        - {x: -62, y: 140}
+        - {x: -62, y: -104}
+        - {x: -32, y: -160}
+        - {x: 33, y: -160}
+        - {x: 52, y: -98}
+        - {x: 52, y: 152}
+    - name: Personagem_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -160}
+        - {x: 34, y: -149}
+        - {x: 47, y: -56}
+        - {x: 52, y: -8}
+        - {x: 52, y: 152}
+        - {x: -39, y: 152}
+        - {x: -62, y: 65}
+        - {x: -62, y: -154}
+        - {x: -59, y: -160}
+        - {x: -18, y: -160}
+        - {x: -16, y: -149}
+        - {x: -6, y: -121}
+        - {x: -2, y: -160}
+    - name: Personagem_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: -10}
+        - {x: 86, y: 41}
+        - {x: 52, y: 152}
+        - {x: -38, y: 152}
+        - {x: -42, y: 133}
+        - {x: -72, y: 87}
+        - {x: -72, y: -160}
+        - {x: -29, y: -160}
+        - {x: -9, y: -109}
+        - {x: 60, y: -142}
+        - {x: 92, y: -146}
+    - name: Personagem_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 152}
+        - {x: -82, y: -5}
+        - {x: -82, y: -33}
+        - {x: -60, y: -32}
+        - {x: -58, y: -30}
+        - {x: -49, y: -24}
+        - {x: -64, y: -39}
+        - {x: -72, y: -50}
+        - {x: -82, y: -112}
+        - {x: -82, y: -160}
+        - {x: 48, y: -160}
+        - {x: 88, y: -153}
+        - {x: 92, y: -135}
+        - {x: 92, y: 113}
+        - {x: 54, y: 152}
+    - name: Personagem_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 122}
+        - {x: -52, y: 79}
+        - {x: -52, y: -125}
+        - {x: -28, y: -160}
+        - {x: 52, y: -160}
+        - {x: 52, y: 122}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

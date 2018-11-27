@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 0ac01d48d1ddefd44923df38766d768e
+timeCreated: 1461257743
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fonte_0
+    21300002: Fonte_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Fonte_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 174, y: -67}
+        - {x: 109, y: -66}
+        - {x: 103, y: -76}
+        - {x: 105, y: 22}
+        - {x: 102, y: 65}
+        - {x: 83, y: 86}
+        - {x: 81, y: 106}
+        - {x: 102, y: 129}
+        - {x: 104, y: 171}
+        - {x: 98, y: 194}
+        - {x: 68, y: 209}
+        - {x: 56, y: 199}
+        - {x: 24, y: 213}
+        - {x: 15, y: 222}
+        - {x: -4, y: 222}
+        - {x: -13, y: 208}
+        - {x: -46, y: 203}
+        - {x: -73, y: 210}
+        - {x: -95, y: 171}
+        - {x: -92, y: 125}
+        - {x: -64, y: 99}
+        - {x: -71, y: 83}
+        - {x: -93, y: 64}
+        - {x: -99, y: -66}
+        - {x: -161, y: -66}
+        - {x: -173, y: -75}
+        - {x: -182, y: -88}
+        - {x: -182, y: -133}
+        - {x: -175, y: -143}
+        - {x: -124, y: -192}
+        - {x: 136, y: -192}
+        - {x: 154, y: -176}
+        - {x: 192, y: -132}
+        - {x: 192, y: -88}
+    - name: Fonte_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 174, y: -67}
+        - {x: 109, y: -66}
+        - {x: 107, y: -41}
+        - {x: 102, y: 5}
+        - {x: 105, y: 62}
+        - {x: 83, y: 86}
+        - {x: 81, y: 106}
+        - {x: 102, y: 129}
+        - {x: 104, y: 171}
+        - {x: 98, y: 194}
+        - {x: 68, y: 209}
+        - {x: 56, y: 199}
+        - {x: 24, y: 213}
+        - {x: 15, y: 222}
+        - {x: -4, y: 222}
+        - {x: -13, y: 208}
+        - {x: -46, y: 203}
+        - {x: -73, y: 210}
+        - {x: -95, y: 171}
+        - {x: -92, y: 125}
+        - {x: -65, y: 97}
+        - {x: -93, y: 64}
+        - {x: -92, y: 9}
+        - {x: -100, y: -68}
+        - {x: -161, y: -66}
+        - {x: -173, y: -75}
+        - {x: -182, y: -88}
+        - {x: -182, y: -133}
+        - {x: -175, y: -143}
+        - {x: -124, y: -192}
+        - {x: 136, y: -192}
+        - {x: 154, y: -176}
+        - {x: 192, y: -132}
+        - {x: 192, y: -88}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
